@@ -1,14 +1,9 @@
 package pages;
 
 
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.FindBy;
-import org.openqa.selenium.support.PageFactory;
-import utilities.MyDriver;
-
 public class TestBase {
 
-	@FindBy(xpath = "")
+	/*@FindBy(xpath = "")
 	public WebElement mywebelement;
 
 
@@ -18,6 +13,6 @@ public class TestBase {
 		//this means this page class
 		PageFactory.initElements(MyDriver.get(), this);
 	}
-
+*/
 
 }

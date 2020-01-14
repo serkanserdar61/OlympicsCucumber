@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2d80d7c-7211-4260-9adf-4c69934db631" name="Default Changelist" comment="" />
+    <list default="true" id="e2d80d7c-7211-4260-9adf-4c69934db631" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/TestBase.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +21,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -25,6 +32,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1WKdpTGdd30UDlT7BygobCKY2Y6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -32,6 +40,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/utulities" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -190,33 +199,33 @@
       <screen x="0" y="23" width="1680" height="984" />
     </state>
     <state x="300" y="405" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/1680.23.1366.745/0.23.1680.984/-1366.23.1366.745@0.23.1680.984" timestamp="1578960849526" />
-    <state width="1268" height="295" key="GridCell.Tab.0.bottom" timestamp="1578972880057">
+    <state width="1268" height="295" key="GridCell.Tab.0.bottom" timestamp="1578972995784">
       <screen x="0" y="23" width="1680" height="984" />
     </state>
     <state width="796" height="295" key="GridCell.Tab.0.bottom/1680.0.1366.768/0.0.1680.1050/-1366.0.1366.768@0.0.1680.1050" timestamp="1578904654011" />
     <state width="1268" height="295" key="GridCell.Tab.0.bottom/1680.23.1366.708/0.23.1680.1027/-1366.23.1366.745@0.23.1680.1027" timestamp="1578950559641" />
-    <state width="1268" height="295" key="GridCell.Tab.0.bottom/1680.23.1366.745/0.23.1680.984/-1366.23.1366.745@0.23.1680.984" timestamp="1578972880057" />
+    <state width="1268" height="295" key="GridCell.Tab.0.bottom/1680.23.1366.745/0.23.1680.984/-1366.23.1366.745@0.23.1680.984" timestamp="1578972995784" />
     <state width="1268" height="295" key="GridCell.Tab.0.bottom/1680.23.1366.745/0.23.1680.985/-1366.23.1366.745@0.23.1680.985" timestamp="1578905881864" />
-    <state width="1268" height="295" key="GridCell.Tab.0.center" timestamp="1578972880056">
+    <state width="1268" height="295" key="GridCell.Tab.0.center" timestamp="1578972995784">
       <screen x="0" y="23" width="1680" height="984" />
     </state>
     <state width="796" height="295" key="GridCell.Tab.0.center/1680.0.1366.768/0.0.1680.1050/-1366.0.1366.768@0.0.1680.1050" timestamp="1578904654008" />
     <state width="1268" height="295" key="GridCell.Tab.0.center/1680.23.1366.708/0.23.1680.1027/-1366.23.1366.745@0.23.1680.1027" timestamp="1578950559639" />
-    <state width="1268" height="295" key="GridCell.Tab.0.center/1680.23.1366.745/0.23.1680.984/-1366.23.1366.745@0.23.1680.984" timestamp="1578972880056" />
+    <state width="1268" height="295" key="GridCell.Tab.0.center/1680.23.1366.745/0.23.1680.984/-1366.23.1366.745@0.23.1680.984" timestamp="1578972995784" />
     <state width="1268" height="295" key="GridCell.Tab.0.center/1680.23.1366.745/0.23.1680.985/-1366.23.1366.745@0.23.1680.985" timestamp="1578905881863" />
-    <state width="1268" height="295" key="GridCell.Tab.0.left" timestamp="1578972880055">
+    <state width="1268" height="295" key="GridCell.Tab.0.left" timestamp="1578972995783">
       <screen x="0" y="23" width="1680" height="984" />
     </state>
     <state width="796" height="295" key="GridCell.Tab.0.left/1680.0.1366.768/0.0.1680.1050/-1366.0.1366.768@0.0.1680.1050" timestamp="1578904654007" />
     <state width="1268" height="295" key="GridCell.Tab.0.left/1680.23.1366.708/0.23.1680.1027/-1366.23.1366.745@0.23.1680.1027" timestamp="1578950559639" />
-    <state width="1268" height="295" key="GridCell.Tab.0.left/1680.23.1366.745/0.23.1680.984/-1366.23.1366.745@0.23.1680.984" timestamp="1578972880055" />
+    <state width="1268" height="295" key="GridCell.Tab.0.left/1680.23.1366.745/0.23.1680.984/-1366.23.1366.745@0.23.1680.984" timestamp="1578972995783" />
     <state width="1268" height="295" key="GridCell.Tab.0.left/1680.23.1366.745/0.23.1680.985/-1366.23.1366.745@0.23.1680.985" timestamp="1578905881862" />
-    <state width="1268" height="295" key="GridCell.Tab.0.right" timestamp="1578972880057">
+    <state width="1268" height="295" key="GridCell.Tab.0.right" timestamp="1578972995784">
       <screen x="0" y="23" width="1680" height="984" />
     </state>
     <state width="796" height="295" key="GridCell.Tab.0.right/1680.0.1366.768/0.0.1680.1050/-1366.0.1366.768@0.0.1680.1050" timestamp="1578904654010" />
     <state width="1268" height="295" key="GridCell.Tab.0.right/1680.23.1366.708/0.23.1680.1027/-1366.23.1366.745@0.23.1680.1027" timestamp="1578950559640" />
-    <state width="1268" height="295" key="GridCell.Tab.0.right/1680.23.1366.745/0.23.1680.984/-1366.23.1366.745@0.23.1680.984" timestamp="1578972880057" />
+    <state width="1268" height="295" key="GridCell.Tab.0.right/1680.23.1366.745/0.23.1680.984/-1366.23.1366.745@0.23.1680.984" timestamp="1578972995784" />
     <state width="1268" height="295" key="GridCell.Tab.0.right/1680.23.1366.745/0.23.1680.985/-1366.23.1366.745@0.23.1680.985" timestamp="1578905881863" />
     <state x="209" y="168" key="Maven.ArtifactSearchDialog" timestamp="1578951553999">
       <screen x="0" y="23" width="1680" height="1027" />
